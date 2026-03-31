@@ -1,84 +1,103 @@
 GOOGLE FORM 
 https://docs.google.com/forms/d/e/1FAIpQLScNAbwyxFyfXl-eh8q6MuUyA-51NXvaCuYyNVqvH2iU77YBuQ/viewform?usp=publish-editor
 README FILE 
-## Task Summary
 
-### Task 1 – Digital Literacy Infographic
 
-I made a visual infographic using Canva that covers what Digital Literacy is. It also talks about Digital Tools for Students and Safe Internet Practices.
+This is a **`README.md`** file that serves as the page of my project repository. It is designed to meet the documentation requirements for all five modules of the Student Digital Ambassador program while maintaining a tone.
 
-- What is Digital Literacy
+***
 
-- Digital Tools for Students
+# Student Digital Ambassador: Project Report
 
-- Safe Internet Practices
+**Course:** Digital Literacy & Professional Presence
 
-You can find the file for this task in `task-1-presentation/`
+**Student Name:** [krishna chauhan] | **Branch:** [aiml] | **Year:** [2025]
 
-### Task 2 – Digital Portfolio
+---
 
-I set up my profiles on several websites.
+## 📂 Repository Structure
 
-- I created a profile on GitHub. Wrote a README for it.
+My repository is organized by task modules as follows:
 
-- I added my education details to my LinkedIn profile.
+* `task-1-presentation/`: This is where I put my Digital Literacy Infographic and Report.
 
-- I also made a profile on HackerRank.
+* `task-2-portfolio/`: I have Screenshots of my profiles like GitHub and LinkedIn in this folder.
 
-You can find the files for this task in `task-2-portfolio/`
+* `task-3-platforms/`: This folder has my coding challenge results and Google Form assets.
 
-### Task 3 – Platforms Exploration
+* `task-4-email-etiquette/`: My professional email drafts and social media checklist are located here.
 
-I did a things for this task.
+* `task-5-cybercrime/`: I have a Cybercrime case study and prevention guide in this folder.
 
-- I finished a beginner coding challenge on HackerRank.
+---
 
-- I made a Digital Literacy Awareness Quiz using Google Forms.
+## 🛠️ Task 1: Digital Literacy Awareness Infographic
 
-You can find the link to the quiz here: *(Paste your form link *
+I used Gemini 3 Flash and Canva to create my infographic.
 
-You can find the files for this task in `task-3-platforms/`
+The infographic is called "Essential Digital Skills for Students". It covers three main areas:
 
-### Task 4 – Email Etiquette
+1.  **Defining Digital Literacy**: This part is about thinking and responsible content creation.
 
-For this task I did a couple of things.
+2.  **The Student Toolbox**: This section categorizes tools for research, productivity and collaboration.
 
-- I wrote two emails. One was to ask for an extension on an assignment. The other was to ask about an internship.
+3.  **Professional Presence**: This part has guidelines for building a LinkedIn profile and separating personal and public personas.
 
-- I made a Social Media Do’s & Don’ts Checklist.
+**Reflection**: I used a design approach that combined human and artificial intelligence to create my infographic. My goal was to make it easy to scan and understand. I wanted to make sure that someone could look at it for a time and learn something new. The hardest part was making the "Professional Presence" section feel helpful and not restrictive. I think I did a job of balancing pictures and text to make it easy to read.
 
-You can find the files for this task in `task-4-email-etiquette/`
+---
 
-### Task 5 – Cybercrime Awareness
+## 🌐 Task 2: Build Your Student Digital Portfolio
 
-I worked on a couple of things for this task.
+I chose to use GitHub, LinkedIn and Kaggle for my portfolio.
 
-- I wrote a case study about cybercrime like Phishing or UPI Fraud.
+Each platform has a role:
 
-- I made a checklist to prevent cybercrime. It includes online practices, UPI safety tips and how to report cybercrime on **cybercrime.gov.in** and the helpline **1930**.
+* **GitHub** is for version control and showcasing my projects.
 
-You can find the files for this task in `task-5-cybercrime/`
+* **LinkedIn** is for networking and career history.
 
-## Project Report
+* **Kaggle** is for data science practice. Participating in community competitions.
 
-My report that covers all the tasks what I learned and what I thought about them is in `report/Project_Report.pdf`
+**Reflection**: I chose these platforms because they are important for hiring. Over the four years I plan to use **GitHub** to document my coursework and projects. I will use **LinkedIn** to connect with alumni and track internship opportunities. **Kaggle** will be my playground for learning, where I can apply what I learn in class to real-world datasets. By building these profiles I will have a record of my growth by the time I graduate.
 
-## Key Learnings
+---
 
-I learned a lot of important things from this project.
+## 💻 Task 3: Coding & Collaboration Platforms
 
-- Digital Literacy is crucial for academics and career.
+**Part A**: I completed a coding challenge on HackerRank.
 
-- Using the internet safely and responsibly is very important.
+**Part B**: I created a **Digital Literacy Awareness Quiz** using Google Forms.
 
-- Having a professional online presence is necessary.
+* You can find the link to the quiz here.
 
-- Communicating effectively online is key.
+**Reflection**: For this task I practiced coding on HackerRank and built a community engagement tool using Google Forms. Practicing on HackerRank helped me understand the importance of considering all cases when coding. Building the Google Form was also helpful; it made me think like an educator. I designed questions that would make people think deeply. These tools will help me academically by providing a way to test my technical skills and collect data from my peers.
 
-- Being aware of cyber threats and knowing how to prevent them is vital.
+---
 
-## Submission
+## 📧 Task 4: Professional Email & Etiquette
 
-You can find my GitHub Repository Link *(Paste your repo link here)*
+You can find my files in the `/task-4-email-etiquette/` folder:
 
-This project really helped me build a foundation, in Digital Literacy and practical online skills.
+* `email_drafts.pdf`: This has examples of email drafts, including an extension request and internship inquiry.
+
+* `social-media-checklist.md`: This is a checklist with 5 dos and 5 don'ts for media.
+
+**Reflection**: Poor communication can cause problems like when someone sends an email with a subject line. I've seen this happen to my peers. It often results in delayed responses or being ignored. A professional approach, with a subject line establishes respect and context. Clear communication is not about being polite; it's about making things easy for the recipient.
+
+---
+
+## 🛡️ Task 5: Cybercrime Awareness & Prevention
+
+I did a case study on Phishing and UPI Fraud.
+
+I also created a prevention guide with 8 tips, including UPI safety and the Helpline 1930.
+
+**Reflection**: While researching UPI fraud I learned that scammers often use "Social Engineering" to trick people. They don't always hack the app; they hack the persons trust. I found it alarming how easily people can be tricked into paying money. As a result I'm changing my habits like being more careful when scanning QR codes in public. I will also be more vigilant, about checking the URL of any site that asks for my login information.
+
+---
+
+
+
+
+
